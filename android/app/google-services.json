@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "681924127575",
+    "firebase_url": "https://mco-attendanceprototype.firebaseio.com",
+    "project_id": "mco-attendanceprototype",
+    "storage_bucket": "mco-attendanceprototype.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681924127575:android:5a2122453e4c9baa406c12",
+        "android_client_info": {
+          "package_name": "com.example.mco_attendance_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681924127575-r0cqpuomdiaq5s7jhas9nebvsmildv5k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mco_attendance_flutter_app",
+            "certificate_hash": "7661d4c8cc682654bbb3a7b0f6230d456dd2b45a"
+          }
+        },
+        {
+          "client_id": "681924127575-lhjd26p258vo62p90gec49a3n0m55cto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAplYWj58QKZF4T05pp8IuXGpJJFh8XavY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681924127575-lhjd26p258vo62p90gec49a3n0m55cto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
